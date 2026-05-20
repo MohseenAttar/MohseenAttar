@@ -1,4 +1,4 @@
-## Hi, I am Mohseen 👋
+## Hii, I am Mohseen 👋
 
 # 💫 About Me:
 Computer Science Engineering graduate with 11 months of hands-on internship experience in full-stack development. Proficient in building responsive frontend interfaces using React.js, HTML, and CSS, alongside developing robust backend services with Java and Spring Boot. Experienced in designing and integrating RESTful APIs, with a strong foundation in collaborative, real-world software development environments.
